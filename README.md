@@ -8,7 +8,7 @@ In this project, I have created a map plot visualizing the World Happiness Index
 
 ### Description
 
-The map is based on the data from the World Happiness Report and was generated using [plotly.express]()for the visualization.
+The map is based on the data from the World Happiness Report and was generated using <span style="color: green">Plotly Express</span> for the visualization.
 
 ### Usage
 
