@@ -8,10 +8,10 @@ In this project, I have created a map plot visualizing the World Happiness Index
 
 ### Description
 
-The map is based on the data from the World Happiness Report and was generated using [plotly.express] for the visualization.
+The map is based on the data from the World Happiness Report and was generated using '['plotly.express']' for the visualization.
 
 ### Usage
 
-To view the interactive plot, simply open the [WHI2023.html](images/world_happiness_map.png) file in this repository.
+To view the interactive plot, simply open the [WHI2023.html](WHI2023.html) file in this repository.
 
 
