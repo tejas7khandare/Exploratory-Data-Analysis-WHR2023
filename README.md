@@ -11,6 +11,7 @@ In this project, I have created a map plot visualizing the World Happiness Index
 The map is based on the data from the World Happiness Report 2023 and was generated using *Plotly Express* for the visualization.
 
 ### Usage
+To view the map plot, simply open the [world_happiness_map.png](.png) image file in this repository.
 
 Explore the World Happiness Index interactively through:
 
