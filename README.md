@@ -12,6 +12,8 @@ The map is based on the data from the World Happiness Report 2023 and was genera
 
 ### Usage
 
-To view the interactive map plot, simply download the [WHI2023.html]() file in this repository.
+Explore the World Happiness Index interactively by clicking on the link below:
+
+[View Interactive Map](WHR23.html?sanitize=true)
 
 
