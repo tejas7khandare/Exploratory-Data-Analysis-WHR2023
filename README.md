@@ -1,5 +1,4 @@
-# Exploratory Data Analysis (EDA) in Python: 
-# World Happiness Report 2023 
+# Exploratory Data Analysis (EDA) in Python: World Happiness Report 2023 
 
 ## World Happiness Index Map
 
